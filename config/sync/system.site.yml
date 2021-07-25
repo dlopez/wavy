@@ -1,0 +1,14 @@
+uuid: 228dbcc5-de19-46ea-892f-5f9e79e9d0fc
+name: Wavy
+mail: admin@wavy.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /user/login
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
