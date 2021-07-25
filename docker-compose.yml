@@ -3,7 +3,7 @@
     
     services:
       drupal:
-        image: geerlingguy/drupal-for-kubernetes:latest
+        image: digitalfire/drupal9-k8:latest
         container_name: drupal-app
         environment:
           DRUPAL_DATABASE_HOST: 'mysql'
